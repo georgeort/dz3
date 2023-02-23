@@ -1,0 +1,15 @@
+/Users/georgij/Desktop/dz/bin/Debug/net6.0/dz
+/Users/georgij/Desktop/dz/bin/Debug/net6.0/dz.deps.json
+/Users/georgij/Desktop/dz/bin/Debug/net6.0/dz.runtimeconfig.json
+/Users/georgij/Desktop/dz/bin/Debug/net6.0/dz.dll
+/Users/georgij/Desktop/dz/bin/Debug/net6.0/dz.pdb
+/Users/georgij/Desktop/dz/obj/Debug/net6.0/dz.csproj.AssemblyReference.cache
+/Users/georgij/Desktop/dz/obj/Debug/net6.0/dz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/georgij/Desktop/dz/obj/Debug/net6.0/dz.AssemblyInfoInputs.cache
+/Users/georgij/Desktop/dz/obj/Debug/net6.0/dz.AssemblyInfo.cs
+/Users/georgij/Desktop/dz/obj/Debug/net6.0/dz.csproj.CoreCompileInputs.cache
+/Users/georgij/Desktop/dz/obj/Debug/net6.0/dz.dll
+/Users/georgij/Desktop/dz/obj/Debug/net6.0/refint/dz.dll
+/Users/georgij/Desktop/dz/obj/Debug/net6.0/dz.pdb
+/Users/georgij/Desktop/dz/obj/Debug/net6.0/dz.genruntimeconfig.cache
+/Users/georgij/Desktop/dz/obj/Debug/net6.0/ref/dz.dll
